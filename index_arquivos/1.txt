@@ -11,4 +11,5 @@ LINK🔴
 NOME🔴
   <i class="fa fa-external-link" style="font-size;color:red"></i></a></li></p>
 <!-------------------------------------------------------------->
- <i class="fa fa-external-link-square" style="font-size;color:red"></i>
+  <i class="fa fa-external-link" style="font-size;color:red"></i>
+  <i class="fa fa-external-link-square" style="font-size;color:red"></i>
